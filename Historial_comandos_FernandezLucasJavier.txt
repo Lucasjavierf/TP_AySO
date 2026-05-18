@@ -144,3 +144,14 @@ git commit -m "ADD: Añadiendo script"
 git push
 pwd
 history -a
+cp ../../.bash_history Historial_comandos_FernandezLucasJavier.txt
+ls
+cat Historial_comandos_FernandezLucasJavier.txt
+git add .
+git commit -m "ADD: Historial de comandos"
+git push
+ls
+pwd
+l
+cd repogit/TP_AySO/
+history -a
